@@ -1,0 +1,20 @@
+- name: DevWell
+  description: >-
+    A developer well-being app that helps track mood, hydration, nutrition,
+    and coding habits through a simple dashboard with reminders and insights.
+  url: https://github.com/Wesley534/DevWell
+  tech: Python, FastAPI, React
+
+- name: Blockchain-Based WiFi Billing
+  description: >-
+    A blockchain-based system for WiFi billing and access management,
+    enabling transparent and tamper-proof usage tracking and billing.
+  url: https://github.com/Wesley534/Blockchain-based-wifi-billing-system
+  tech: Python
+
+- name: Financial Companion
+  description: >-
+    A personal finance web app for tracking transactions, budgets, savings
+    goals, and shopping lists, with monthly reports and AI-powered helpers.
+  url: https://github.com/Wesley534/financial_companion
+  tech: TypeScript, Python, FastAPI, React
